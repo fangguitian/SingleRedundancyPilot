@@ -1,2 +1,0 @@
-# SingleRedundancyPilot
-FPGA Program

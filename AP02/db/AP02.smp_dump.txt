@@ -1,6 +1,0 @@
-
-State Machine - |top|spi_slave_reg:spi_reg_cpu1|state
-Name state.IDLE state.WRITE state.READ 
-state.IDLE 0 0 0 
-state.READ 1 0 1 
-state.WRITE 1 1 0 
